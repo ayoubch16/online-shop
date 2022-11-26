@@ -20,6 +20,17 @@ body {
     text-align: center;
     margin-top: 20px;
 }
+.priceBlock{
+    width: 50%;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+}
+.productPrice{
+    font-weight: 600;
+    font-size: 19px;
+}
+
 
 /* Header */
 
